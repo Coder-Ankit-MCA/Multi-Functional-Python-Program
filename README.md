@@ -51,7 +51,7 @@ Ensure you have Python 3.x installed. You can download it from [Python.org](http
 1. Clone the repository:  
    ```bash  
    git clone https://github.com/Coder-Ankit-MCA/Multi-Functional-Python-Program.git  
-   cd python-utility-suite
+   cd Multi-Functional-Python-Program
     
 2. Install required packages:
    ```bash
